@@ -1,0 +1,2 @@
+debian/bin/dollarpoundsd usr/bin
+src/dollarpoundsd usr/lib/dollarpounds

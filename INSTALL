@@ -1,0 +1,9 @@
+Building DollarPounds
+
+See doc/readme-qt.rst for instructions on building DollarPounds QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DollarPounds.
+
+See doc/build-*.txt for instructions on building dollarpoundsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of DollarPounds.
